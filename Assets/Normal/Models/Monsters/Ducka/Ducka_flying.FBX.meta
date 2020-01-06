@@ -1,0 +1,154 @@
+fileFormatVersion: 2
+guid: 6a8ef525887f667468641127d19bcf79
+timeCreated: 1522278465
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: duck_flyingBox002
+    100002: duck_flyingBox003
+    100004: duck_flyingBox004
+    100006: duck_flyingBox010
+    100008: duck_flyingBox011
+    100010: duck_flyingBox012
+    100012: duck_flyingGroup002
+    100014: duck_flyingLine003
+    100016: //RootNode
+    400000: duck_flyingBox002
+    400002: duck_flyingBox003
+    400004: duck_flyingBox004
+    400006: duck_flyingBox010
+    400008: duck_flyingBox011
+    400010: duck_flyingBox012
+    400012: duck_flyingGroup002
+    400014: duck_flyingLine003
+    400016: //RootNode
+    2300000: duck_flyingBox002
+    2300002: duck_flyingBox003
+    2300004: duck_flyingBox004
+    2300006: duck_flyingBox010
+    2300008: duck_flyingBox011
+    2300010: duck_flyingBox012
+    2300012: duck_flyingGroup002
+    2300014: duck_flyingLine003
+    3300000: duck_flyingBox002
+    3300002: duck_flyingBox003
+    3300004: duck_flyingBox004
+    3300006: duck_flyingBox010
+    3300008: duck_flyingBox011
+    3300010: duck_flyingBox012
+    3300012: duck_flyingGroup002
+    3300014: duck_flyingLine003
+    4300000: duck_flyingBox011
+    4300002: duck_flyingBox002
+    4300004: duck_flyingBox003
+    4300006: duck_flyingBox004
+    4300008: duck_flyingBox010
+    4300010: duck_flyingBox012
+    4300012: duck_flyingGroup002
+    4300014: duck_flyingLine003
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

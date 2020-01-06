@@ -1,0 +1,730 @@
+fileFormatVersion: 2
+guid: 6196152c30bae6946a5f2cd304d7ec20
+timeCreated: 1526223303
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Bip001
+    100002: Bip001 Footsteps
+    100004: Bip001 Head
+    100006: Bip001 HeadNub
+    100008: Bip001 L Calf
+    100010: Bip001 L Clavicle
+    100012: Bip001 L Finger0
+    100014: Bip001 L Finger01
+    100016: Bip001 L Finger02
+    100018: Bip001 L Finger0Nub
+    100020: Bip001 L Finger1
+    100022: Bip001 L Finger11
+    100024: Bip001 L Finger12
+    100026: Bip001 L Finger1Nub
+    100028: Bip001 L Finger2
+    100030: Bip001 L Finger21
+    100032: Bip001 L Finger22
+    100034: Bip001 L Finger2Nub
+    100036: Bip001 L Finger3
+    100038: Bip001 L Finger31
+    100040: Bip001 L Finger32
+    100042: Bip001 L Finger3Nub
+    100044: Bip001 L Finger4
+    100046: Bip001 L Finger41
+    100048: Bip001 L Finger42
+    100050: Bip001 L Finger4Nub
+    100052: Bip001 L Foot
+    100054: Bip001 L Forearm
+    100056: Bip001 L Hand
+    100058: Bip001 L Thigh
+    100060: Bip001 L Toe0
+    100062: Bip001 L Toe0Nub
+    100064: Bip001 L UpperArm
+    100066: Bip001 Neck
+    100068: Bip001 Pelvis
+    100070: Bip001 R Calf
+    100072: Bip001 R Clavicle
+    100074: Bip001 R Finger0
+    100076: Bip001 R Finger01
+    100078: Bip001 R Finger02
+    100080: Bip001 R Finger0Nub
+    100082: Bip001 R Finger1
+    100084: Bip001 R Finger11
+    100086: Bip001 R Finger12
+    100088: Bip001 R Finger1Nub
+    100090: Bip001 R Finger2
+    100092: Bip001 R Finger21
+    100094: Bip001 R Finger22
+    100096: Bip001 R Finger2Nub
+    100098: Bip001 R Finger3
+    100100: Bip001 R Finger31
+    100102: Bip001 R Finger32
+    100104: Bip001 R Finger3Nub
+    100106: Bip001 R Finger4
+    100108: Bip001 R Finger41
+    100110: Bip001 R Finger42
+    100112: Bip001 R Finger4Nub
+    100114: Bip001 R Foot
+    100116: Bip001 R Forearm
+    100118: Bip001 R Hand
+    100120: Bip001 R Thigh
+    100122: Bip001 R Toe0
+    100124: Bip001 R Toe0Nub
+    100126: Bip001 R UpperArm
+    100128: Bip001 Spine
+    100130: Bip001 Spine1
+    100132: che
+    100134: Circle001
+    100136: Circle002
+    100138: door
+    100140: Group20099
+    100142: Group20099_MeshPart0
+    100144: Group20099_MeshPart1
+    100146: //RootNode
+    100148: sc2sc2sttsttBox003
+    100150: sc2sc2sttsttBox027
+    100152: sc2sc2sttsttBox027_MeshPart0
+    100154: sc2sc2sttsttBox027_MeshPart1
+    100156: sc2sc2sttsttBox066
+    100158: sc2sc2sttsttBox072
+    100160: sc2sc2sttsttBox077
+    100162: sc2sc2sttsttBox080
+    100164: sc2sc2sttsttBox082
+    100166: sc2sc2sttsttBox083
+    100168: sc2sc2sttsttBox084
+    100170: sc2sc2sttsttBox147
+    100172: sc2sc2sttsttBox148
+    100174: sc2sc2sttsttBox150
+    100176: sc2sc2sttsttBox151
+    100178: sc2sc2sttsttBox152
+    100180: sc2sc2sttsttBox155
+    100182: sc2sc2sttsttBox156
+    100184: sc2sc2sttsttBox158
+    100186: sc2sc2sttsttBox159
+    100188: sc2sc2sttsttBox160
+    100190: sc2sc2sttsttBox161
+    100192: sc2sc2sttsttBox162
+    100194: sc2sc2sttsttBox163
+    100196: sc2sc2sttsttBox164
+    100198: sc2sc2sttsttCylinder003
+    100200: sc2sc2sttsttCylinder004
+    100202: sc2sc2sttsttCylinder009
+    100204: sc2sc2sttsttCylinder021
+    100206: sc2sc2sttsttCylinder050
+    100208: sc2sc2sttsttCylinder083
+    100210: sc2sc2sttsttCylinder162
+    100212: sc2sc2sttsttCylinder164
+    100214: sc2sc2sttsttCylinder165
+    100216: sc2sc2sttsttCylinder166
+    100218: sc2sc2sttsttCylinder167
+    100220: sc2sc2sttsttCylinder168
+    100222: sc2sc2sttsttCylinder169
+    100224: sc2sc2sttsttCylinder170
+    100226: sc2sc2sttsttCylinder171
+    100228: sc2sc2sttsttCylinder172
+    100230: sc2sc2sttsttCylinder173
+    100232: sc2sc2sttsttCylinder174
+    100234: sc2sc2sttsttCylinder176
+    100236: sc2sc2sttsttGroup004
+    100238: sc2sc2sttsttGroup007
+    100240: sc2sc2sttsttGroup008
+    100242: sc2sc2sttsttObject001
+    100244: sc2sc2sttsttObject004
+    100246: sc2sc2sttsttObject007
+    100248: sc2sc2sttsttObject009
+    100250: sc2sc2sttsttObject012
+    100252: sc2sc2sttsttObject060
+    100254: sc2sc2sttsttObject061
+    100256: sc2sc2sttsttObject062
+    100258: sc2sc2sttsttObject063
+    100260: sc2sc2sttsttObject064
+    100262: sc2sc2sttsttObject077
+    100264: sc2sc2sttsttObject082
+    100266: sc2sc2sttsttObject084
+    100268: sc2sc2sttsttObject085
+    100270: sc2sc2sttsttObject086
+    100272: sc2sc2sttsttObject087
+    100274: sc2sc2sttsttObject091
+    100276: sc2sc2sttsttObject104
+    100278: sc2sc2sttsttObject105
+    100280: sc2sc2sttsttObject106
+    100282: sc2sc2sttsttObject107
+    100284: sc2sc2sttsttObject108
+    100286: sc2sc2sttsttObject114
+    100288: sc2sc2sttsttObject202
+    100290: sc2sc2sttsttObject203
+    100292: sc2sc2sttsttObject204
+    100294: sc2sc2sttsttObject205
+    100296: sc2sc2sttsttObject207
+    100298: sc2sc2sttsttObject208
+    100300: sc2sc2sttsttObject209
+    100302: sc2sc2sttsttObject210
+    100304: sc2sc2sttsttObject211
+    100306: sc2sc2sttsttObject213
+    100308: sc2sc2sttsttObject214
+    100310: sc2sc2sttsttObject216
+    100312: sc2sc2sttsttObject223
+    100314: sc2sc2sttsttObject224
+    100316: sc2sc2sttsttObject225
+    100318: sc2sc2sttsttObject226
+    100320: sc2sc2sttsttObject227
+    100322: sc2sc2sttsttObject228
+    100324: sc2sc2sttsttObject229
+    100326: sc2sc2sttsttObject230
+    100328: sc2sc2sttsttObject231
+    100330: sc2sc2sttsttObject232
+    100332: sc2sc2sttsttTube007
+    100334: sc2sc2sttsttTube009
+    100336: sc2sc2sttsttTube010
+    100338: sc2sc2sttsttTube015
+    100340: sc2sc2sttsttTube016
+    100342: sc2sc2sttsttTube017
+    100344: sc2sc2sttsttTube018
+    100346: sc2sc2sttsttTube019
+    100348: "\u5BF9\u8C61001"
+    400000: Bip001
+    400002: Bip001 Footsteps
+    400004: Bip001 Head
+    400006: Bip001 HeadNub
+    400008: Bip001 L Calf
+    400010: Bip001 L Clavicle
+    400012: Bip001 L Finger0
+    400014: Bip001 L Finger01
+    400016: Bip001 L Finger02
+    400018: Bip001 L Finger0Nub
+    400020: Bip001 L Finger1
+    400022: Bip001 L Finger11
+    400024: Bip001 L Finger12
+    400026: Bip001 L Finger1Nub
+    400028: Bip001 L Finger2
+    400030: Bip001 L Finger21
+    400032: Bip001 L Finger22
+    400034: Bip001 L Finger2Nub
+    400036: Bip001 L Finger3
+    400038: Bip001 L Finger31
+    400040: Bip001 L Finger32
+    400042: Bip001 L Finger3Nub
+    400044: Bip001 L Finger4
+    400046: Bip001 L Finger41
+    400048: Bip001 L Finger42
+    400050: Bip001 L Finger4Nub
+    400052: Bip001 L Foot
+    400054: Bip001 L Forearm
+    400056: Bip001 L Hand
+    400058: Bip001 L Thigh
+    400060: Bip001 L Toe0
+    400062: Bip001 L Toe0Nub
+    400064: Bip001 L UpperArm
+    400066: Bip001 Neck
+    400068: Bip001 Pelvis
+    400070: Bip001 R Calf
+    400072: Bip001 R Clavicle
+    400074: Bip001 R Finger0
+    400076: Bip001 R Finger01
+    400078: Bip001 R Finger02
+    400080: Bip001 R Finger0Nub
+    400082: Bip001 R Finger1
+    400084: Bip001 R Finger11
+    400086: Bip001 R Finger12
+    400088: Bip001 R Finger1Nub
+    400090: Bip001 R Finger2
+    400092: Bip001 R Finger21
+    400094: Bip001 R Finger22
+    400096: Bip001 R Finger2Nub
+    400098: Bip001 R Finger3
+    400100: Bip001 R Finger31
+    400102: Bip001 R Finger32
+    400104: Bip001 R Finger3Nub
+    400106: Bip001 R Finger4
+    400108: Bip001 R Finger41
+    400110: Bip001 R Finger42
+    400112: Bip001 R Finger4Nub
+    400114: Bip001 R Foot
+    400116: Bip001 R Forearm
+    400118: Bip001 R Hand
+    400120: Bip001 R Thigh
+    400122: Bip001 R Toe0
+    400124: Bip001 R Toe0Nub
+    400126: Bip001 R UpperArm
+    400128: Bip001 Spine
+    400130: Bip001 Spine1
+    400132: che
+    400134: Circle001
+    400136: Circle002
+    400138: door
+    400140: Group20099
+    400142: Group20099_MeshPart0
+    400144: Group20099_MeshPart1
+    400146: //RootNode
+    400148: sc2sc2sttsttBox003
+    400150: sc2sc2sttsttBox027
+    400152: sc2sc2sttsttBox027_MeshPart0
+    400154: sc2sc2sttsttBox027_MeshPart1
+    400156: sc2sc2sttsttBox066
+    400158: sc2sc2sttsttBox072
+    400160: sc2sc2sttsttBox077
+    400162: sc2sc2sttsttBox080
+    400164: sc2sc2sttsttBox082
+    400166: sc2sc2sttsttBox083
+    400168: sc2sc2sttsttBox084
+    400170: sc2sc2sttsttBox147
+    400172: sc2sc2sttsttBox148
+    400174: sc2sc2sttsttBox150
+    400176: sc2sc2sttsttBox151
+    400178: sc2sc2sttsttBox152
+    400180: sc2sc2sttsttBox155
+    400182: sc2sc2sttsttBox156
+    400184: sc2sc2sttsttBox158
+    400186: sc2sc2sttsttBox159
+    400188: sc2sc2sttsttBox160
+    400190: sc2sc2sttsttBox161
+    400192: sc2sc2sttsttBox162
+    400194: sc2sc2sttsttBox163
+    400196: sc2sc2sttsttBox164
+    400198: sc2sc2sttsttCylinder003
+    400200: sc2sc2sttsttCylinder004
+    400202: sc2sc2sttsttCylinder009
+    400204: sc2sc2sttsttCylinder021
+    400206: sc2sc2sttsttCylinder050
+    400208: sc2sc2sttsttCylinder083
+    400210: sc2sc2sttsttCylinder162
+    400212: sc2sc2sttsttCylinder164
+    400214: sc2sc2sttsttCylinder165
+    400216: sc2sc2sttsttCylinder166
+    400218: sc2sc2sttsttCylinder167
+    400220: sc2sc2sttsttCylinder168
+    400222: sc2sc2sttsttCylinder169
+    400224: sc2sc2sttsttCylinder170
+    400226: sc2sc2sttsttCylinder171
+    400228: sc2sc2sttsttCylinder172
+    400230: sc2sc2sttsttCylinder173
+    400232: sc2sc2sttsttCylinder174
+    400234: sc2sc2sttsttCylinder176
+    400236: sc2sc2sttsttGroup004
+    400238: sc2sc2sttsttGroup007
+    400240: sc2sc2sttsttGroup008
+    400242: sc2sc2sttsttObject001
+    400244: sc2sc2sttsttObject004
+    400246: sc2sc2sttsttObject007
+    400248: sc2sc2sttsttObject009
+    400250: sc2sc2sttsttObject012
+    400252: sc2sc2sttsttObject060
+    400254: sc2sc2sttsttObject061
+    400256: sc2sc2sttsttObject062
+    400258: sc2sc2sttsttObject063
+    400260: sc2sc2sttsttObject064
+    400262: sc2sc2sttsttObject077
+    400264: sc2sc2sttsttObject082
+    400266: sc2sc2sttsttObject084
+    400268: sc2sc2sttsttObject085
+    400270: sc2sc2sttsttObject086
+    400272: sc2sc2sttsttObject087
+    400274: sc2sc2sttsttObject091
+    400276: sc2sc2sttsttObject104
+    400278: sc2sc2sttsttObject105
+    400280: sc2sc2sttsttObject106
+    400282: sc2sc2sttsttObject107
+    400284: sc2sc2sttsttObject108
+    400286: sc2sc2sttsttObject114
+    400288: sc2sc2sttsttObject202
+    400290: sc2sc2sttsttObject203
+    400292: sc2sc2sttsttObject204
+    400294: sc2sc2sttsttObject205
+    400296: sc2sc2sttsttObject207
+    400298: sc2sc2sttsttObject208
+    400300: sc2sc2sttsttObject209
+    400302: sc2sc2sttsttObject210
+    400304: sc2sc2sttsttObject211
+    400306: sc2sc2sttsttObject213
+    400308: sc2sc2sttsttObject214
+    400310: sc2sc2sttsttObject216
+    400312: sc2sc2sttsttObject223
+    400314: sc2sc2sttsttObject224
+    400316: sc2sc2sttsttObject225
+    400318: sc2sc2sttsttObject226
+    400320: sc2sc2sttsttObject227
+    400322: sc2sc2sttsttObject228
+    400324: sc2sc2sttsttObject229
+    400326: sc2sc2sttsttObject230
+    400328: sc2sc2sttsttObject231
+    400330: sc2sc2sttsttObject232
+    400332: sc2sc2sttsttTube007
+    400334: sc2sc2sttsttTube009
+    400336: sc2sc2sttsttTube010
+    400338: sc2sc2sttsttTube015
+    400340: sc2sc2sttsttTube016
+    400342: sc2sc2sttsttTube017
+    400344: sc2sc2sttsttTube018
+    400346: sc2sc2sttsttTube019
+    400348: "\u5BF9\u8C61001"
+    2300000: sc2sc2sttsttBox003
+    2300002: sc2sc2sttsttBox027_MeshPart0
+    2300004: sc2sc2sttsttBox027_MeshPart1
+    2300006: sc2sc2sttsttBox066
+    2300008: sc2sc2sttsttBox072
+    2300010: sc2sc2sttsttBox077
+    2300012: sc2sc2sttsttBox080
+    2300014: sc2sc2sttsttBox082
+    2300016: sc2sc2sttsttBox083
+    2300018: sc2sc2sttsttBox084
+    2300020: sc2sc2sttsttBox147
+    2300022: sc2sc2sttsttBox148
+    2300024: sc2sc2sttsttBox150
+    2300026: sc2sc2sttsttBox151
+    2300028: sc2sc2sttsttBox152
+    2300030: sc2sc2sttsttBox155
+    2300032: sc2sc2sttsttBox156
+    2300034: sc2sc2sttsttBox158
+    2300036: sc2sc2sttsttBox159
+    2300038: sc2sc2sttsttBox160
+    2300040: sc2sc2sttsttBox161
+    2300042: sc2sc2sttsttBox162
+    2300044: sc2sc2sttsttBox163
+    2300046: sc2sc2sttsttBox164
+    2300048: sc2sc2sttsttCylinder003
+    2300050: sc2sc2sttsttCylinder004
+    2300052: sc2sc2sttsttCylinder009
+    2300054: sc2sc2sttsttCylinder021
+    2300056: sc2sc2sttsttCylinder050
+    2300058: sc2sc2sttsttCylinder083
+    2300060: sc2sc2sttsttCylinder162
+    2300062: sc2sc2sttsttCylinder164
+    2300064: sc2sc2sttsttCylinder165
+    2300066: sc2sc2sttsttCylinder166
+    2300068: sc2sc2sttsttCylinder167
+    2300070: sc2sc2sttsttCylinder168
+    2300072: sc2sc2sttsttCylinder169
+    2300074: sc2sc2sttsttCylinder170
+    2300076: sc2sc2sttsttCylinder171
+    2300078: sc2sc2sttsttCylinder172
+    2300080: sc2sc2sttsttCylinder173
+    2300082: sc2sc2sttsttCylinder174
+    2300084: sc2sc2sttsttCylinder176
+    2300086: sc2sc2sttsttObject001
+    2300088: sc2sc2sttsttObject004
+    2300090: sc2sc2sttsttObject007
+    2300092: sc2sc2sttsttObject009
+    2300094: sc2sc2sttsttObject012
+    2300096: sc2sc2sttsttObject060
+    2300098: sc2sc2sttsttObject061
+    2300100: sc2sc2sttsttObject062
+    2300102: sc2sc2sttsttObject063
+    2300104: sc2sc2sttsttObject064
+    2300106: sc2sc2sttsttObject077
+    2300108: sc2sc2sttsttObject082
+    2300110: sc2sc2sttsttObject084
+    2300112: sc2sc2sttsttObject085
+    2300114: sc2sc2sttsttObject086
+    2300116: sc2sc2sttsttObject087
+    2300118: sc2sc2sttsttObject091
+    2300120: sc2sc2sttsttObject104
+    2300122: sc2sc2sttsttObject105
+    2300124: sc2sc2sttsttObject106
+    2300126: sc2sc2sttsttObject107
+    2300128: sc2sc2sttsttObject108
+    2300130: sc2sc2sttsttObject114
+    2300132: sc2sc2sttsttObject202
+    2300134: sc2sc2sttsttObject203
+    2300136: sc2sc2sttsttObject204
+    2300138: sc2sc2sttsttObject205
+    2300140: sc2sc2sttsttObject207
+    2300142: sc2sc2sttsttObject208
+    2300144: sc2sc2sttsttObject209
+    2300146: sc2sc2sttsttObject210
+    2300148: sc2sc2sttsttObject211
+    2300150: sc2sc2sttsttObject213
+    2300152: sc2sc2sttsttObject214
+    2300154: sc2sc2sttsttObject216
+    2300156: sc2sc2sttsttObject223
+    2300158: sc2sc2sttsttObject224
+    2300160: sc2sc2sttsttObject225
+    2300162: sc2sc2sttsttObject226
+    2300164: sc2sc2sttsttObject227
+    2300166: sc2sc2sttsttObject228
+    2300168: sc2sc2sttsttObject229
+    2300170: sc2sc2sttsttObject230
+    2300172: sc2sc2sttsttObject231
+    2300174: sc2sc2sttsttObject232
+    2300176: sc2sc2sttsttTube007
+    2300178: sc2sc2sttsttTube009
+    2300180: sc2sc2sttsttTube010
+    2300182: sc2sc2sttsttTube015
+    2300184: sc2sc2sttsttTube016
+    2300186: sc2sc2sttsttTube017
+    2300188: sc2sc2sttsttTube018
+    2300190: sc2sc2sttsttTube019
+    2300192: "\u5BF9\u8C61001"
+    3300000: sc2sc2sttsttBox003
+    3300002: sc2sc2sttsttBox027_MeshPart0
+    3300004: sc2sc2sttsttBox027_MeshPart1
+    3300006: sc2sc2sttsttBox066
+    3300008: sc2sc2sttsttBox072
+    3300010: sc2sc2sttsttBox077
+    3300012: sc2sc2sttsttBox080
+    3300014: sc2sc2sttsttBox082
+    3300016: sc2sc2sttsttBox083
+    3300018: sc2sc2sttsttBox084
+    3300020: sc2sc2sttsttBox147
+    3300022: sc2sc2sttsttBox148
+    3300024: sc2sc2sttsttBox150
+    3300026: sc2sc2sttsttBox151
+    3300028: sc2sc2sttsttBox152
+    3300030: sc2sc2sttsttBox155
+    3300032: sc2sc2sttsttBox156
+    3300034: sc2sc2sttsttBox158
+    3300036: sc2sc2sttsttBox159
+    3300038: sc2sc2sttsttBox160
+    3300040: sc2sc2sttsttBox161
+    3300042: sc2sc2sttsttBox162
+    3300044: sc2sc2sttsttBox163
+    3300046: sc2sc2sttsttBox164
+    3300048: sc2sc2sttsttCylinder003
+    3300050: sc2sc2sttsttCylinder004
+    3300052: sc2sc2sttsttCylinder009
+    3300054: sc2sc2sttsttCylinder021
+    3300056: sc2sc2sttsttCylinder050
+    3300058: sc2sc2sttsttCylinder083
+    3300060: sc2sc2sttsttCylinder162
+    3300062: sc2sc2sttsttCylinder164
+    3300064: sc2sc2sttsttCylinder165
+    3300066: sc2sc2sttsttCylinder166
+    3300068: sc2sc2sttsttCylinder167
+    3300070: sc2sc2sttsttCylinder168
+    3300072: sc2sc2sttsttCylinder169
+    3300074: sc2sc2sttsttCylinder170
+    3300076: sc2sc2sttsttCylinder171
+    3300078: sc2sc2sttsttCylinder172
+    3300080: sc2sc2sttsttCylinder173
+    3300082: sc2sc2sttsttCylinder174
+    3300084: sc2sc2sttsttCylinder176
+    3300086: sc2sc2sttsttObject001
+    3300088: sc2sc2sttsttObject004
+    3300090: sc2sc2sttsttObject007
+    3300092: sc2sc2sttsttObject009
+    3300094: sc2sc2sttsttObject012
+    3300096: sc2sc2sttsttObject060
+    3300098: sc2sc2sttsttObject061
+    3300100: sc2sc2sttsttObject062
+    3300102: sc2sc2sttsttObject063
+    3300104: sc2sc2sttsttObject064
+    3300106: sc2sc2sttsttObject077
+    3300108: sc2sc2sttsttObject082
+    3300110: sc2sc2sttsttObject084
+    3300112: sc2sc2sttsttObject085
+    3300114: sc2sc2sttsttObject086
+    3300116: sc2sc2sttsttObject087
+    3300118: sc2sc2sttsttObject091
+    3300120: sc2sc2sttsttObject104
+    3300122: sc2sc2sttsttObject105
+    3300124: sc2sc2sttsttObject106
+    3300126: sc2sc2sttsttObject107
+    3300128: sc2sc2sttsttObject108
+    3300130: sc2sc2sttsttObject114
+    3300132: sc2sc2sttsttObject202
+    3300134: sc2sc2sttsttObject203
+    3300136: sc2sc2sttsttObject204
+    3300138: sc2sc2sttsttObject205
+    3300140: sc2sc2sttsttObject207
+    3300142: sc2sc2sttsttObject208
+    3300144: sc2sc2sttsttObject209
+    3300146: sc2sc2sttsttObject210
+    3300148: sc2sc2sttsttObject211
+    3300150: sc2sc2sttsttObject213
+    3300152: sc2sc2sttsttObject214
+    3300154: sc2sc2sttsttObject216
+    3300156: sc2sc2sttsttObject223
+    3300158: sc2sc2sttsttObject224
+    3300160: sc2sc2sttsttObject225
+    3300162: sc2sc2sttsttObject226
+    3300164: sc2sc2sttsttObject227
+    3300166: sc2sc2sttsttObject228
+    3300168: sc2sc2sttsttObject229
+    3300170: sc2sc2sttsttObject230
+    3300172: sc2sc2sttsttObject231
+    3300174: sc2sc2sttsttObject232
+    3300176: sc2sc2sttsttTube007
+    3300178: sc2sc2sttsttTube009
+    3300180: sc2sc2sttsttTube010
+    3300182: sc2sc2sttsttTube015
+    3300184: sc2sc2sttsttTube016
+    3300186: sc2sc2sttsttTube017
+    3300188: sc2sc2sttsttTube018
+    3300190: sc2sc2sttsttTube019
+    3300192: "\u5BF9\u8C61001"
+    4300000: Group20099_MeshPart0
+    4300002: Group20099_MeshPart1
+    4300004: sc2sc2sttsttCylinder164
+    4300006: "\u5BF9\u8C61001"
+    4300008: sc2sc2sttsttObject209
+    4300010: sc2sc2sttsttCylinder176
+    4300012: sc2sc2sttsttCylinder169
+    4300014: sc2sc2sttsttCylinder166
+    4300016: sc2sc2sttsttCylinder167
+    4300018: sc2sc2sttsttObject224
+    4300020: sc2sc2sttsttObject223
+    4300022: sc2sc2sttsttCylinder165
+    4300024: sc2sc2sttsttObject225
+    4300026: sc2sc2sttsttBox155
+    4300028: sc2sc2sttsttBox152
+    4300030: sc2sc2sttsttBox158
+    4300032: sc2sc2sttsttBox156
+    4300034: sc2sc2sttsttCylinder168
+    4300036: sc2sc2sttsttBox164
+    4300038: sc2sc2sttsttObject207
+    4300040: sc2sc2sttsttBox159
+    4300042: sc2sc2sttsttCylinder170
+    4300044: sc2sc2sttsttBox160
+    4300046: sc2sc2sttsttBox161
+    4300048: sc2sc2sttsttCylinder171
+    4300050: sc2sc2sttsttObject226
+    4300052: sc2sc2sttsttCylinder172
+    4300054: sc2sc2sttsttObject227
+    4300056: sc2sc2sttsttCylinder173
+    4300058: sc2sc2sttsttBox162
+    4300060: sc2sc2sttsttCylinder174
+    4300062: sc2sc2sttsttObject228
+    4300064: sc2sc2sttsttTube017
+    4300066: sc2sc2sttsttObject230
+    4300068: sc2sc2sttsttTube018
+    4300070: sc2sc2sttsttTube016
+    4300072: sc2sc2sttsttTube015
+    4300074: sc2sc2sttsttCylinder009
+    4300076: sc2sc2sttsttTube009
+    4300078: sc2sc2sttsttTube010
+    4300080: sc2sc2sttsttTube007
+    4300082: sc2sc2sttsttBox163
+    4300084: sc2sc2sttsttTube019
+    4300086: sc2sc2sttsttObject214
+    4300088: sc2sc2sttsttObject213
+    4300090: sc2sc2sttsttObject210
+    4300092: sc2sc2sttsttCylinder050
+    4300094: sc2sc2sttsttObject114
+    4300096: sc2sc2sttsttBox083
+    4300098: sc2sc2sttsttObject216
+    4300100: sc2sc2sttsttObject077
+    4300102: sc2sc2sttsttCylinder083
+    4300104: sc2sc2sttsttObject004
+    4300106: sc2sc2sttsttBox148
+    4300108: sc2sc2sttsttObject082
+    4300110: sc2sc2sttsttObject001
+    4300112: sc2sc2sttsttBox150
+    4300114: sc2sc2sttsttObject062
+    4300116: sc2sc2sttsttObject202
+    4300118: sc2sc2sttsttObject232
+    4300120: sc2sc2sttsttObject105
+    4300122: sc2sc2sttsttObject211
+    4300124: sc2sc2sttsttBox082
+    4300126: sc2sc2sttsttObject229
+    4300128: sc2sc2sttsttObject208
+    4300130: sc2sc2sttsttObject063
+    4300132: sc2sc2sttsttObject085
+    4300134: sc2sc2sttsttBox084
+    4300136: sc2sc2sttsttBox077
+    4300138: sc2sc2sttsttCylinder021
+    4300140: sc2sc2sttsttBox066
+    4300142: sc2sc2sttsttObject084
+    4300144: sc2sc2sttsttObject087
+    4300146: sc2sc2sttsttObject104
+    4300148: sc2sc2sttsttObject107
+    4300150: sc2sc2sttsttObject106
+    4300152: sc2sc2sttsttCylinder004
+    4300154: sc2sc2sttsttObject203
+    4300156: sc2sc2sttsttCylinder003
+    4300158: sc2sc2sttsttBox147
+    4300160: sc2sc2sttsttObject205
+    4300162: sc2sc2sttsttObject007
+    4300164: sc2sc2sttsttObject204
+    4300166: sc2sc2sttsttObject012
+    4300168: sc2sc2sttsttBox072
+    4300170: sc2sc2sttsttObject091
+    4300172: sc2sc2sttsttObject086
+    4300174: sc2sc2sttsttObject009
+    4300176: sc2sc2sttsttBox151
+    4300178: sc2sc2sttsttCylinder162
+    4300180: sc2sc2sttsttObject061
+    4300182: sc2sc2sttsttObject064
+    4300184: sc2sc2sttsttBox003
+    4300186: sc2sc2sttsttObject108
+    4300188: sc2sc2sttsttObject060
+    4300190: sc2sc2sttsttBox027_MeshPart0
+    4300192: sc2sc2sttsttBox027_MeshPart1
+    4300194: sc2sc2sttsttObject231
+    4300196: sc2sc2sttsttBox080
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Group20099_MeshPart0
+    13700002: Group20099_MeshPart1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

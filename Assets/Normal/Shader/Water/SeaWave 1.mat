@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: SeaWave 1
+  m_Shader: {fileID: 4800000, guid: 8526c8a4664618342b2070d0ac6dfdc3, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpTex:
+        m_Texture: {fileID: 2800000, guid: 99a88c23f4398b640a0456de61eb26a7, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _GTex:
+        m_Texture: {fileID: 2800000, guid: 3c8fc9b659b7a2c4b97f95492047eafa, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NoiseTex:
+        m_Texture: {fileID: 2800000, guid: 76294d0d075b9d5469a970c4426d98b6, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _WaterTex:
+        m_Texture: {fileID: 2800000, guid: cd584e433b0f3c84ea5870e2e683afba, type: 3}
+        m_Scale: {x: 3, y: 3}
+        m_Offset: {x: 0, y: 0}
+    - _WaveTex:
+        m_Texture: {fileID: 2800000, guid: ed83d53d85e716c41a03d28d14006b1d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Gloss: 0.71
+    - _NoiseRange: 6.43
+    - _Refract: 0.07
+    - _Specular: 0.1
+    - _WaterSpeed: 0.74
+    - _WaveDelta: 2.43
+    - _WaveRange: 0.3
+    - _WaveSpeed: -12.4
+    m_Colors:
+    - _Range: {r: 33.37, g: 5.8, b: 106.8, a: 22.76}
+    - _SpecColor: {r: 0.72794116, g: 0.6124746, b: 0.36397058, a: 1}

@@ -1,0 +1,204 @@
+fileFormatVersion: 2
+guid: 5dab6f2a9611ed044b6e7242c62ab0e8
+timeCreated: 1521553576
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: ladder3ladder3 1
+    100002: ladder3ladder3 10
+    100004: ladder3ladder3 11
+    100006: ladder3ladder3 12
+    100008: ladder3ladder3 13
+    100010: ladder3ladder3 14
+    100012: ladder3ladder3 15
+    100014: ladder3ladder3 16
+    100016: ladder3ladder3 17
+    100018: ladder3ladder3 18
+    100020: ladder3ladder3 19
+    100022: ladder3ladder3 2
+    100024: ladder3ladder3 3
+    100026: ladder3ladder3 4
+    100028: ladder3ladder3 5
+    100030: ladder3ladder3 6
+    100032: ladder3ladder3 7
+    100034: ladder3ladder3 8
+    100036: ladder3ladder3 9
+    100038: //RootNode
+    400000: ladder3ladder3 1
+    400002: ladder3ladder3 10
+    400004: ladder3ladder3 11
+    400006: ladder3ladder3 12
+    400008: ladder3ladder3 13
+    400010: ladder3ladder3 14
+    400012: ladder3ladder3 15
+    400014: ladder3ladder3 16
+    400016: ladder3ladder3 17
+    400018: ladder3ladder3 18
+    400020: ladder3ladder3 19
+    400022: ladder3ladder3 2
+    400024: ladder3ladder3 3
+    400026: ladder3ladder3 4
+    400028: ladder3ladder3 5
+    400030: ladder3ladder3 6
+    400032: ladder3ladder3 7
+    400034: ladder3ladder3 8
+    400036: ladder3ladder3 9
+    400038: //RootNode
+    2300000: ladder3ladder3 10
+    2300002: ladder3ladder3 11
+    2300004: ladder3ladder3 12
+    2300006: ladder3ladder3 13
+    2300008: ladder3ladder3 14
+    2300010: ladder3ladder3 15
+    2300012: ladder3ladder3 16
+    2300014: ladder3ladder3 17
+    2300016: ladder3ladder3 18
+    2300018: ladder3ladder3 19
+    2300020: ladder3ladder3 2
+    2300022: ladder3ladder3 4
+    2300024: ladder3ladder3 5
+    2300026: ladder3ladder3 6
+    2300028: ladder3ladder3 7
+    2300030: ladder3ladder3 8
+    2300032: ladder3ladder3 9
+    3300000: ladder3ladder3 10
+    3300002: ladder3ladder3 11
+    3300004: ladder3ladder3 12
+    3300006: ladder3ladder3 13
+    3300008: ladder3ladder3 14
+    3300010: ladder3ladder3 15
+    3300012: ladder3ladder3 16
+    3300014: ladder3ladder3 17
+    3300016: ladder3ladder3 18
+    3300018: ladder3ladder3 19
+    3300020: ladder3ladder3 2
+    3300022: ladder3ladder3 4
+    3300024: ladder3ladder3 5
+    3300026: ladder3ladder3 6
+    3300028: ladder3ladder3 7
+    3300030: ladder3ladder3 8
+    3300032: ladder3ladder3 9
+    4300000: ladder3ladder3
+    4300002: ladder3ladder3
+    4300004: ladder3ladder3
+    4300006: ladder3ladder3
+    4300008: ladder3ladder3
+    4300010: ladder3ladder3
+    4300012: ladder3ladder3
+    4300014: ladder3ladder3
+    4300016: ladder3ladder3
+    4300018: ladder3ladder3
+    4300020: ladder3ladder3
+    4300022: ladder3ladder3
+    4300024: ladder3ladder3
+    4300026: ladder3ladder3
+    4300028: ladder3ladder3
+    4300030: ladder3ladder3
+    4300032: ladder3ladder3
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 100
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

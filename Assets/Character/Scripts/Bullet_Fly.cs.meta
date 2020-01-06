@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b9975e402b1e234468bbff3c5d47a42c
+timeCreated: 1522930396
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - LittleDuck: {fileID: 1493802680445298, guid: 10a3c681fc899294f87e08abc4edf83b,
+      type: 2}
+  - Camera: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

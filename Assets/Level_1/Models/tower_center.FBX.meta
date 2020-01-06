@@ -1,0 +1,299 @@
+fileFormatVersion: 2
+guid: d09072823f066ef49a1d8b425e800dae
+timeCreated: 1523627111
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: 01lightt01
+    100002: 01lightt02
+    100004: 01lightt03
+    100006: 01lightt04
+    100008: 01lighttlightt
+    100010: 01lighttlightt 1
+    100012: 01lighttlightt 10
+    100014: 01lighttlightt 11
+    100016: 01lighttlightt 2
+    100018: 01lighttlightt 3
+    100020: 01lighttlightt 4
+    100022: 01lighttlightt 5
+    100024: 01lighttlightt 6
+    100026: 01lighttlightt 7
+    100028: 01lighttlightt 8
+    100030: 01lighttlightt 9
+    100032: 01lightttlighttt
+    100034: 01lightttlighttt 1
+    100036: 01lightttlighttt 2
+    100038: 01lightttlighttt 3
+    100040: 01tower_a_tower
+    100042: 01tower_a_tower 1
+    100044: 01tower_a_tower 10
+    100046: 01tower_a_tower 11
+    100048: 01tower_a_tower 12
+    100050: 01tower_a_tower 13
+    100052: 01tower_a_tower 14
+    100054: 01tower_a_tower 15
+    100056: 01tower_a_tower 16
+    100058: 01tower_a_tower 17
+    100060: 01tower_a_tower 18
+    100062: 01tower_a_tower 2
+    100064: 01tower_a_tower 3
+    100066: 01tower_a_tower 4
+    100068: 01tower_a_tower 5
+    100070: 01tower_a_tower 5_MeshPart0
+    100072: 01tower_a_tower 5_MeshPart1
+    100074: 01tower_a_tower 5_MeshPart2
+    100076: 01tower_a_tower 5_MeshPart3
+    100078: 01tower_a_tower 5_MeshPart4
+    100080: 01tower_a_tower 5_MeshPart5
+    100082: 01tower_a_tower 6
+    100084: 01tower_a_tower 7
+    100086: 01tower_a_tower 8
+    100088: 01tower_a_tower 9
+    100090: //RootNode
+    100092: 01tower_a_tower 5_MeshPart6
+    400000: 01lightt01
+    400002: 01lightt02
+    400004: 01lightt03
+    400006: 01lightt04
+    400008: 01lighttlightt
+    400010: 01lighttlightt 1
+    400012: 01lighttlightt 10
+    400014: 01lighttlightt 11
+    400016: 01lighttlightt 2
+    400018: 01lighttlightt 3
+    400020: 01lighttlightt 4
+    400022: 01lighttlightt 5
+    400024: 01lighttlightt 6
+    400026: 01lighttlightt 7
+    400028: 01lighttlightt 8
+    400030: 01lighttlightt 9
+    400032: 01lightttlighttt
+    400034: 01lightttlighttt 1
+    400036: 01lightttlighttt 2
+    400038: 01lightttlighttt 3
+    400040: 01tower_a_tower
+    400042: 01tower_a_tower 1
+    400044: 01tower_a_tower 10
+    400046: 01tower_a_tower 11
+    400048: 01tower_a_tower 12
+    400050: 01tower_a_tower 13
+    400052: 01tower_a_tower 14
+    400054: 01tower_a_tower 15
+    400056: 01tower_a_tower 16
+    400058: 01tower_a_tower 17
+    400060: 01tower_a_tower 18
+    400062: 01tower_a_tower 2
+    400064: 01tower_a_tower 3
+    400066: 01tower_a_tower 4
+    400068: 01tower_a_tower 5
+    400070: 01tower_a_tower 5_MeshPart0
+    400072: 01tower_a_tower 5_MeshPart1
+    400074: 01tower_a_tower 5_MeshPart2
+    400076: 01tower_a_tower 5_MeshPart3
+    400078: 01tower_a_tower 5_MeshPart4
+    400080: 01tower_a_tower 5_MeshPart5
+    400082: 01tower_a_tower 6
+    400084: 01tower_a_tower 7
+    400086: 01tower_a_tower 8
+    400088: 01tower_a_tower 9
+    400090: //RootNode
+    400092: 01tower_a_tower 5_MeshPart6
+    2300000: 01lightt01
+    2300002: 01lightt02
+    2300004: 01lightt03
+    2300006: 01lightt04
+    2300008: 01lighttlightt
+    2300010: 01lighttlightt 1
+    2300012: 01lighttlightt 10
+    2300014: 01lighttlightt 11
+    2300016: 01lighttlightt 2
+    2300018: 01lighttlightt 3
+    2300020: 01lighttlightt 4
+    2300022: 01lighttlightt 5
+    2300024: 01lighttlightt 6
+    2300026: 01lighttlightt 7
+    2300028: 01lighttlightt 8
+    2300030: 01lighttlightt 9
+    2300032: 01lightttlighttt
+    2300034: 01lightttlighttt 1
+    2300036: 01lightttlighttt 2
+    2300038: 01lightttlighttt 3
+    2300040: 01tower_a_tower 1
+    2300042: 01tower_a_tower 10
+    2300044: 01tower_a_tower 11
+    2300046: 01tower_a_tower 12
+    2300048: 01tower_a_tower 13
+    2300050: 01tower_a_tower 17
+    2300052: 01tower_a_tower 2
+    2300054: 01tower_a_tower 3
+    2300056: 01tower_a_tower 4
+    2300058: 01tower_a_tower 5_MeshPart0
+    2300060: 01tower_a_tower 5_MeshPart1
+    2300062: 01tower_a_tower 5_MeshPart2
+    2300064: 01tower_a_tower 5_MeshPart3
+    2300066: 01tower_a_tower 5_MeshPart4
+    2300068: 01tower_a_tower 5_MeshPart5
+    2300070: 01tower_a_tower 6
+    2300072: 01tower_a_tower 7
+    2300074: 01tower_a_tower 8
+    2300076: 01tower_a_tower 9
+    2300078: 01tower_a_tower 5_MeshPart6
+    3300000: 01lightt01
+    3300002: 01lightt02
+    3300004: 01lightt03
+    3300006: 01lightt04
+    3300008: 01lighttlightt
+    3300010: 01lighttlightt 1
+    3300012: 01lighttlightt 10
+    3300014: 01lighttlightt 11
+    3300016: 01lighttlightt 2
+    3300018: 01lighttlightt 3
+    3300020: 01lighttlightt 4
+    3300022: 01lighttlightt 5
+    3300024: 01lighttlightt 6
+    3300026: 01lighttlightt 7
+    3300028: 01lighttlightt 8
+    3300030: 01lighttlightt 9
+    3300032: 01lightttlighttt
+    3300034: 01lightttlighttt 1
+    3300036: 01lightttlighttt 2
+    3300038: 01lightttlighttt 3
+    3300040: 01tower_a_tower 1
+    3300042: 01tower_a_tower 10
+    3300044: 01tower_a_tower 11
+    3300046: 01tower_a_tower 12
+    3300048: 01tower_a_tower 13
+    3300050: 01tower_a_tower 17
+    3300052: 01tower_a_tower 2
+    3300054: 01tower_a_tower 3
+    3300056: 01tower_a_tower 4
+    3300058: 01tower_a_tower 5_MeshPart0
+    3300060: 01tower_a_tower 5_MeshPart1
+    3300062: 01tower_a_tower 5_MeshPart2
+    3300064: 01tower_a_tower 5_MeshPart3
+    3300066: 01tower_a_tower 5_MeshPart4
+    3300068: 01tower_a_tower 5_MeshPart5
+    3300070: 01tower_a_tower 6
+    3300072: 01tower_a_tower 7
+    3300074: 01tower_a_tower 8
+    3300076: 01tower_a_tower 9
+    3300078: 01tower_a_tower 5_MeshPart6
+    4300000: 01tower_a_tower_MeshPart0
+    4300002: 01tower_a_tower_MeshPart1
+    4300004: 01tower_a_tower_MeshPart2
+    4300006: 01tower_a_tower_MeshPart3
+    4300008: 01tower_a_tower_MeshPart4
+    4300010: 01tower_a_tower_MeshPart5
+    4300012: 01lightt02
+    4300014: 01tower_a_tower
+    4300016: 01lighttlightt
+    4300018: 01lightttlighttt
+    4300020: 01lightttlighttt
+    4300022: 01tower_a_tower
+    4300024: 01tower_a_tower
+    4300026: 01lighttlightt
+    4300028: 01lighttlightt
+    4300030: 01lightttlighttt
+    4300032: 01lighttlightt
+    4300034: 01lighttlightt
+    4300036: 01tower_a_tower
+    4300038: 01lightt03
+    4300040: 01lighttlightt
+    4300042: 01lightt01
+    4300044: 01tower_a_tower
+    4300046: 01tower_a_tower
+    4300048: 01tower_a_tower
+    4300050: 01lightttlighttt
+    4300052: 01tower_a_tower
+    4300054: 01tower_a_tower
+    4300056: 01tower_a_tower
+    4300058: 01lighttlightt
+    4300060: 01lighttlightt
+    4300062: 01lighttlightt
+    4300064: 01tower_a_tower
+    4300066: 01lighttlightt
+    4300068: 01tower_a_tower
+    4300070: 01tower_a_tower
+    4300072: 01lighttlightt
+    4300074: 01lightt04
+    4300076: 01lighttlightt
+    4300078: 01tower_a_tower_MeshPart6
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
